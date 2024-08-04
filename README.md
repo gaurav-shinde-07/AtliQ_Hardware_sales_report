@@ -1,3 +1,4 @@
+![AtliQ Hardware Sales Insights](https://github.com/user-attachments/assets/3503ca20-6371-4c83-80a6-08f3ddd2131d)
 Problem Statement of Tableau Project
 
 Company Overview:
