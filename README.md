@@ -1,4 +1,3 @@
-![AtliQ Hardware Sales Insights](https://github.com/user-attachments/assets/3503ca20-6371-4c83-80a6-08f3ddd2131d)
 Problem Statement of Tableau Project
 
 Company Overview:
@@ -31,3 +30,4 @@ Success Criteria:
 
 Technical Background:
 The IT team at Atliq Hardware has developed a sales management software system, which stores data in a MySQL database. The data engineers perform ETL processes to transform and load the data. The data analysts then access this database to extract insights.
+![AtliQ Hardware Sales Insights](https://github.com/user-attachments/assets/3503ca20-6371-4c83-80a6-08f3ddd2131d)
